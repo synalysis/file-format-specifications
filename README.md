@@ -5,5 +5,5 @@ This is a collection of specifications of various (binary) file formats. The mai
 ## STDF
 Description: [Description of the Standard Test Data Format (STDF)](STDF)
 
-Specification: [Standard Test Data Format (STDF) Specification - Version 4](/synalysis/file-format-specifications/raw/main/STDF/std-spec.pdf)
+Specification: [Standard Test Data Format (STDF) Specification - Version 4](STDF/std-spec.pdf)
 
